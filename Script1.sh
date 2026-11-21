@@ -7,6 +7,7 @@ echo "In same line"
 echo "This is 2nd practical"
 echo "I am performing"
 echo "Hey i am using git"
+echo "wanted to see what erro i will get"
 
 
 
